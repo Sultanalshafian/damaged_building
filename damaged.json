@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Major Damage",
+    "lat": 23.8103,
+    "long": 90.4125
+  },
+  {
+    "id": 2,
+    "title": "Minor Damage",
+    "lat": 22.3569,
+    "long": 91.7832
+  },
+  {
+    "id": 3,
+    "title": "Critical Damage",
+    "lat": 24.3636,
+    "long": 88.6241
+  },
+  {
+    "id": 4,
+    "title": "Moderate Damage",
+    "lat": 25.6872,
+    "long": 89.3212
+  },
+  {
+    "id": 5,
+    "title": "Severe Damage",
+    "lat": 21.4339,
+    "long": 91.9870
+  }
+]
